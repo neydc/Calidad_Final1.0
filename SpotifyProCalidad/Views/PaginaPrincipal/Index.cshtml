@@ -1,0 +1,329 @@
+@{ Layout = null;
+	
+}
+@using SpotifyProCalidad.Models;
+@using System.Collections.Generic;
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<title>@ViewData["Title"] - SpotifyProCalidad</title>
+		<meta name="description" content="Your description">
+		<meta name="keywords" content="Your,Keywords">
+		<meta name="author" content="HimanshuGupta">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href="~/Plantilla/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Plantilla/css/animate.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/Plantilla/css/owl.carousel.css">
+	<link href="~/Plantilla/css/font-awesome.min.css" rel="stylesheet">		
+	<link href="~/Plantilla/css/style.css" rel="stylesheet">
+	<link href="~/Plantilla/css/style-color.css" rel="stylesheet">
+		<style>
+		
+		
+              marquee{
+              font-size: 450px;
+              font-weight: 800;
+              color: #8ebf42;
+              font-family: "-apple-system";
+              }
+
+		</style>
+		
+		<style>
+	
+			.abc{
+				color: #0c0c0c;
+            }
+            .playlist-number{
+            	color: black;
+            	background-color: #0b2e13;
+            }
+            audio {
+                filter: sepia(20%) saturate(70%) grayscale(100) contrast(99%) invert(12%);
+                width: 570px;
+                height: 40px;
+                color: #e83e8c;
+               border-radius: 50%;
+            }
+            .playlist-content .mama{
+            	
+            	background: #f82929;
+            
+            	}
+			
+		</style>
+</head>
+<body>
+
+		<div class="modal fade" id="bookTicket" tabindex="-1" role="dialog" aria-labelledby="BookTicket">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+						<h4 class="modal-title" id="myModalLabel">Name of The Event &nbsp; <small><span class="label label-success">Available</span> &nbsp; <span class="label label-danger">Not Available</span></small></h4>
+					</div>
+					<form>
+						<div class="modal-body">
+							<div class="form-group">
+								<label for="exampleInputEmail1">Email</label>
+								<input type="email" class="form-control" id="exampleInputEmail1" placeholder="example@mail.com">
+							</div>
+							<div class="form-group">
+								<label for="exampleInputContact">Contact</label>
+								<input type="text" class="form-control" id="exampleInputContact" placeholder="+91 55 5555 5555">
+							</div>
+						</div>
+						<div class="modal-footer">
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+							<!-- link to payment gatway here -->
+							<button type="button" class="btn btn-primary">Book Now</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="wrapper" id="home">
+		
+			<!-- header area -->
+			<header>
+				<!-- secondary menu -->
+				<nav class="secondary-menu">
+					<div class="container">
+						<!-- secondary menu left link area -->
+						<div class="sm-left">
+							<strong>Proyecto Calidad</strong>:&nbsp; <a href="#">SpotifyPro</a>&nbsp;&nbsp;&nbsp;&nbsp;
+							
+						</div>
+						<!-- secondary menu right link area -->
+						<div class="sm-right">
+							<!-- social link -->
+						
+						</div>
+						<div class="clearfix"></div>
+					</div>
+				</nav>
+				<!-- primary menu -->
+				<nav class="navbar navbar-fixed-top navbar-default">
+					<div class="container">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<!-- logo area -->
+						
+						</div>
+
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav navbar-right">
+								<li><a href="#latestalbum">Lista de Reproduccion</a></li>
+			
+							</ul>
+						</div><!-- /.navbar-collapse -->
+					</div><!-- /.container-fluid -->
+				</nav>
+			</header>
+			<!--/ header end -->
+			
+			<!-- banner area -->
+
+			<!--/ banner end -->
+			
+			<!-- block for animate navigation menu -->
+			<div class="nav-animate"></div>
+			
+			<!-- Hero block area -->
+			<div id="latestalbum" class="hero pad">
+				<div class="container">
+					<!-- hero content -->
+					<div class="hero-content ">
+						<!-- heading -->
+						<h2>Lista de reproduccion</h2>
+						<hr>
+						<!-- paragraph -->
+						<p>La mejor opcion para escuciar tu  <strong class="theme-color">musica favorita</strong> </p>
+					</div>
+					<!-- hero play list -->
+					<div class="hero-playlist">
+													
+						<div class="row">
+							                                
+							<div class="col-md-6 col-sm-6">
+								<!-- music album image -->
+
+								<div class="hero-content">
+									<marquee behavior="alternate"><p style="color: #0c5460" id="elemento1"></p></marquee>
+                                                                   
+									<audio src="" controls id="audioPlayer">
+
+									</audio>
+
+								</div>
+								
+								<hr>
+								<div class="figure">
+
+									<!-- image -->
+									<img class="img-responsive" src="~/Plantilla/musica.gif" alt=""/>
+									<!-- disk image -->
+									<img class="img-responsive disk" src="~/Plantilla/img/album/disk.png" alt=""/>
+
+
+								</div>
+
+								<!-- album details -->
+
+							</div>
+							<div class="col-md-6 col-sm-6">
+								<!-- play list -->
+
+								<div class="playlist-content">
+									<ul class="list-unstyled" id="playlist">
+										@foreach (var item in @ViewBag.Canciones)
+										{
+											<li class="playlist-number"  >
+												
+												<a name="nombre" onclick="document.getElementById('elemento1').innerHTML='@item.Nombre - @DateTime.Now' " class="blanquito" style="color: black" href=@item.Musica><h4>@item.Nombre</h4></a>
+												<p><strong>Album </strong> @(((List<Album>)@ViewBag.Albumnes).FirstOrDefault(o => o.Id == @item.IdAlbum)?.Nombre) &nbsp;|&nbsp; <strong>Genero </strong>: @(((List<Genero>)@ViewBag.Generos).FirstOrDefault(o => o.Id == @item.IdGenero)?.Nombre)  &nbsp;|&nbsp; <strong>Cantante </strong>: @foreach(var xItem in @ViewBag.DetalleCancionArtista)
+												                                                                                                                                                                                                                                                                                             {
+														                                                                                                                                                                                                                                                                                      
+													                                                                                                                                                                                                                                                                                             if (xItem.IdCancion==@item.Id)
+													                                                                                                                                                                                                                                                                                             {
+														                                                                                                                                                                                                                                                                                             @ViewBag.Artista[xItem.IdArtista]
+															                                                                                                                                                                                                                                                                                      
+															                                                                                                                                                                                                                                                                                      
+															                                                                                                                                                                                                                                                                                      
+													                                                                                                                                                                                                                                                                                             }
+														                                                                                                                                                                                                                                                                                      
+														                                                                                                                                                                                                                                                                                     
+												                                                                                                                                                                                                                                                                                             }</p>
+												<a href="/ListaReproduccion/AgregarCancionFavoritos?IdCancion=@item.Id">Agregar Favorito</a>
+												<!-- music icon -->
+
+												<div class="clearfix"></div>
+
+
+											</li>
+
+										}
+
+									</ul>
+								</div>
+							</div>
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--/ hero end -->
+			
+			<!-- promo -->
+		
+			<!--/ promo end -->
+			
+			<!-- featured abbum -->
+			
+			<!--/ cta end -->
+			
+			<!-- work with us -->
+			
+			
+		
+     
+			<footer>
+				<div class="container">
+					<!-- social media links -->
+					
+					<!-- copy right -->
+		
+				</div>
+			</footer>
+			<!-- footer end -->
+			
+			<!-- Scroll to top -->
+			<span class="totop"><a href="#"><i class="fa fa-chevron-up"></i></a></span> 
+
+		</div>
+
+		<script src="~/Plantilla/js/jquery.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="~/Plantilla/js/bootstrap.min.js"></script>
+		<!-- WayPoints JS -->
+		<script src="~/Plantilla/js/waypoints.min.js"></script>
+		<!-- Include js plugin -->
+		<script src="~/Plantilla/js/owl.carousel.min.js"></script>
+		<!-- One Page Nav -->
+		<script src="~/Plantilla/js/jquery.nav.js"></script>
+		<!-- Respond JS for IE8 -->
+		<script src="~/Plantilla/js/respond.min.js"></script>
+		<!-- HTML5 Support for IE -->
+		<script src="~/Plantilla/js/html5shiv.js"></script>
+		<!-- Custom JS -->
+		<script src="~/Plantilla/js/custom.js"></script>
+  
+</body>
+<script>
+    audioPlayer();
+        function audioPlayer(){
+            var currentSong = 0;
+            $("#audioPlayer")[0].src = $("#playlist li a")[0];
+            
+            $("#playlist li ").addClass("playlist-number");
+            $("#playlist li a").click(function(e){
+               e.preventDefault(); 
+               $("#audioPlayer")[0].src = this;
+               
+               $("#audioPlayer")[0].play();
+               
+               
+                currentSong = $(this).parent().index();
+                $(this).parent().addClass("playlist-number");
+            });
+         //   $("#playlist li").click(function(e){
+            	
+           // 	$($("#playlist li")).onload.addClass("mama");
+            	
+         //   });
+            
+            $("#audioPlayer")[0].addEventListener("ended", function(){
+               currentSong++;
+                if(currentSong == $("#playlist li a").length)
+                    currentSong = 0;
+               
+               
+                $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
+                $("#playlist li a").removeClass("abc");
+                $($("#playlist li a")[currentSong]).addClass("abc");
+                $("#audioPlayer")[0].play();
+            });
+            
+			$('#playNowBtn').click(function(e){
+				var $playNowButton = $(this);																/* button variable */
+				var $playlist = $playNowButton.parent().parent();						/* play list section class */
+				var $disk			= $playlist.children().children('.disk');			/* disk image */
+				
+				if ($disk.hasClass('rotating')) {
+					$disk.removeClass('rotating');
+					$playNowButton.children('i').removeClass('fa-pause').addClass('fa-play');
+					obj.pause();
+				} else {
+					$disk.addClass('rotating');
+					$playNowButton.children('i').removeClass('fa-play').addClass('fa-pause');
+					obj.play();
+				}
+				e.preventDefault();
+			});
+            
+        }
+
+</script>
+	  
+</html>

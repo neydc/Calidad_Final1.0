@@ -1,0 +1,112 @@
+
+@{ 
+    Layout = null;
+}
+<div class="main">
+
+    <div class="main-container">
+      
+        <div class="row">
+            <div class="col-sm-3">
+                </div>
+                <div class="col-sm-6">
+
+                    <div style="border-radius:5px" class="search-bar">
+
+                        <input value="@ViewBag.Busqueda" type="text" id="texto" name="busqueda" placeholder="Escriba nombre de la cancion" />
+
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <button style="margin:10px" class="btn btn-dark" id="busqueda"> Buscar</button>
+                </div>
+            </div>
+            <div class="timeline">
+
+                <div class="timeline-right">
+                    <div class="album box">
+                        <div class="status-main">
+                            <div class="album-detail">
+                                <div class="album-title">
+                                    <strong>Canciones</strong>
+                                </div>
+                                <div class="playlist-content">
+                                    <ul class="list-unstyled" id="playlist">
+                                        @foreach (var item in Model)
+                                        {
+                            <div class="">
+                                <li class="">
+
+                                    <div class="row">
+                                        <div style="height:24px" class="col-lg-12">
+                                            <a name="nombre" onclick="document.getElementById('elemento1').innerHTML='@item.Nombre - @DateTime.Now' " href=@item.Musica>
+                                                <h3 style="font-family:'Adobe Arabic'">
+                                                    <i style="color:forestgreen" class="fas fa-play"></i> @item.Nombre
+                                                </h3>
+                                            </a>
+                                            <div class="text-right">
+                                                <a style="font-size:10px" class="btn btn-success" data-toggle="modal" data-target="#exampleModalScrollable" href="/ListaReproduccion/AgregarCancionAListaReproduccion?IdCancion=@item.Id">
+                                                    <i class="fas fa-share-square"></i>
+                                                </a>
+                                                @if (!((List<int>)ViewBag.DetalleNumeros).Contains(item.Id))
+                                                {
+                                <a href="/ListaReproduccion/AgregarCancionFavoritos?IdCancion=@item.Id">
+                                    <i style="color:forestgreen" class="far fa-star"></i>
+                                </a> <!-- Agregar a Favorita--> }
+                            else
+                            {
+            <i style="color:darkmagenta" class="fas fa-star"></i> <!-- Cancion Favorita-->}
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <p>
+                                        <strong>
+                                            <i class="fas fa-compact-disc"></i>
+                                        </strong> @(((List<Album>) @ViewBag.Albumnes).FirstOrDefault(o => o.Id == @item.IdAlbum)?.Nombre) &nbsp;|&nbsp;
+                                        <strong>
+                                            <i class="fas fa-guitar"></i>
+                                        </strong> @(((List<Genero>) @ViewBag.Generos).FirstOrDefault(o => o.Id == @item.IdGenero)?.Nombre) &nbsp;|&nbsp;
+                                        <strong>
+                                            <i class="fas fa-microphone-alt"></i>
+                                        </strong>
+                                        @foreach (var xItem in ViewBag.DetalleCancionArtista)
+                                        {
+                                            if (xItem.IdCancion == @item.Id)
+                                            {
+                        @ViewBag.Artista[xItem.IdArtista]}
+                }
+                                    </p>
+
+                                    <!-- music icon -->
+
+                                    <div class="clearfix"></div>
+
+
+                                </li>
+                            </div>
+}
+
+                                    </ul>
+                                </div>
+                                <!--/////////////////////////////////////////////////////////////////////////////////////////-->
+                            </div>
+                            <button class="intro-menu"></button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+
+
+
+<script>
+    $("#busqueda").click(function (e) {
+        $.get("/PaginaPrincipal/Perfil2?busqueda=" + $("#texto").val(), function (respuesta) {
+            $("#canciones").html(respuesta);
+        });
+        e.preventDefault();
+    });
+</script>

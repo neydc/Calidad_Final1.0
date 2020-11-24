@@ -1,0 +1,816 @@
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csprojAssemblyReference.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfoInputs.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfo.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CoreCompileInputs.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.MvcApplicationPartsAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.input.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.output.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorCoreGenerate.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.exe
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.deps.json
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.json
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.dev.json
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CopyComplete
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.Manifest.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.xml
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.genruntimeconfig.cache
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\DetalleListaReproduccion.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Principal.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\Calidad\SpotifyProCalidad\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PlantillaLayout.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.exe
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.deps.json
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.json
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.dev.json
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csprojAssemblyReference.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfoInputs.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfo.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CoreCompileInputs.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.MvcApplicationPartsAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.input.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.output.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorCoreGenerate.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\DetalleListaReproduccion.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CopyComplete
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.Manifest.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.xml
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.genruntimeconfig.cache
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Usser\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Usser\Registrarse.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+D:\Upn 2020-2\Calidad\gitgub\BitBucket\Calidad_SpotifyPro\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Perfil.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.exe
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.deps.json
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.json
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.input.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.output.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorCoreGenerate.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\DetalleListaReproduccion.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\Index.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Index.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Perfil.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Usser\Index.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Usser\Registrarse.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CopyComplete
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.Manifest.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.xml
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\AgregarLista.cshtml.g.cs
+C:\Users\Administrador\source\repos\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csprojAssemblyReference.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfoInputs.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfo.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CoreCompileInputs.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.MvcApplicationPartsAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.input.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.output.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorCoreGenerate.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\AgregarLista.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\DetalleListaReproduccion.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Index.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\MisAmigos.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Perfil.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\PlaylistAmigos.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.exe
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.deps.json
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.json
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.dev.json
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CopyComplete
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.Manifest.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.xml
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.genruntimeconfig.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csprojAssemblyReference.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfoInputs.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfo.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CoreCompileInputs.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.MvcApplicationPartsAssemblyInfo.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.input.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.output.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorCoreGenerate.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\AgregarLista.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\DetalleListaReproduccion.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\Index.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Index.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\MisAmigos.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Perfil.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\PlaylistAmigos.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\VerComentarios.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Usser\Index.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Usser\Registrarse.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cs
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.json
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.exe
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.deps.json
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.json
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.dev.json
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CopyComplete
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.Manifest.cache
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.xml
+D:\calidad2020-1\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.genruntimeconfig.cache
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\VerComentarios.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Registrarse.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\ListaDeReproducciones.cshtml.g.cs
+D:\Upn 2020-2\Calidad\proyectoAVancesNeiser\calidad2020-1\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\AgregarAmigos.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\appsettings.json
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.exe
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.deps.json
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.json
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.runtimeconfig.dev.json
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csprojAssemblyReference.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfoInputs.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.AssemblyInfo.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CoreCompileInputs.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.MvcApplicationPartsAssemblyInfo.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorAssemblyInfo.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.input.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.TagHelpers.output.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorCoreGenerate.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Registrarse.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\AgregarLista.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\DetalleListaReproduccion.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\Index.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\ListaReproduccion\ListaDeReproducciones.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\AgregarAmigos.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Index.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\MisAmigos.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Perfil.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\PlaylistAmigos.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\VerComentarios.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.RazorTargetAssemblyInfo.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.Views.pdb
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.csproj.CopyComplete
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.Manifest.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\staticwebassets\SpotifyProCalidad.StaticWebAssets.xml
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.dll
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.pdb
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\SpotifyProCalidad.genruntimeconfig.cache
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\PaginaPrincipal\Perfil2.cshtml.g.cs
+E:\UPN\Calidad y Pruebas de Software\calidad-final\t3calidad-master\SpotifyProCalidad\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewLayout.cshtml.g.cs

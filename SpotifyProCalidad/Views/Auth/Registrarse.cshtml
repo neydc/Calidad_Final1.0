@@ -1,0 +1,60 @@
+@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <title>SpotifyPro-Registrarse</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+    <style>
+        strong {
+            color: rgba(255, 0, 0, 0.72);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="text-center">
+                    <img src="~/Img/logo.PNG" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr />
+
+    <div class="container">
+        <div class="row">
+           <div class="col-lg-4">
+
+           </div>
+                <div class="col-lg-4">
+                    <div class="text-lef">
+                        <form action="/Usser/Registrarse" method="post">
+                            <label>Nombres</label>
+                            <input class="form-control" name="Nombre" autocomplete="off" value="@Model.Nombre" />
+                              <br />
+                            <label>Apellidos</label>
+                            <input class="form-control" name="Apellido" autocomplete="off" value="@Model.Apellido" />
+                             <br />
+                            <label>Correo</label>
+                            <input type="email" class="form-control" name="Correo" autocomplete="off" value="@Model.Correo" />
+                            <br />
+                          
+                            <label>Nickname</label>
+                            <input class="form-control" name="Nickname" autocomplete="off" value="@Model.Nickname" />
+                              <br />
+                            <label>Contraseña</label>
+                            <input class="form-control" type="password" name="Password" autocomplete="off" value="@Model.Password" />
+                            <br />
+                            <button class="btn btn-success">Registrarse</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+</html>

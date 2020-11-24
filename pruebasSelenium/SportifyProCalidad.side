@@ -1,0 +1,155 @@
+{
+  "id": "5a50d130-5b2d-4998-b197-a19242a08fad",
+  "version": "2.0",
+  "name": "SportifyProCalidad",
+  "url": "https://localhost:5001",
+  "tests": [{
+    "id": "c20eae52-fa85-4c90-98b3-c1d0123fc138",
+    "name": "Usuario ve una lista de reproduccion",
+    "commands": [{
+      "id": "b9a81037-c3ff-490e-8ca5-1965efcfc287",
+      "comment": "",
+      "command": "open",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e2204e15-4e12-447b-8901-99fc10444813",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "128b717d-49ca-4d45-a4c7-0cca178d5daa",
+    "name": "Usuario reproduce una cancion",
+    "commands": [{
+      "id": "3f38b773-15a3-4a73-8b3d-e0995f75a6ff",
+      "comment": "",
+      "command": "open",
+      "target": "/ListaReproduccion/DetalleListaReproduccion",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "263a7a7b-78b6-4aa3-b871-5c621127fae5",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "866x664",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "725f46ee-fd39-4ff6-aca9-f5027700d776",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Con Altura",
+      "targets": [
+        ["linkText=Con Altura", "linkText"],
+        ["css=.playlist-number:nth-child(1) > .blanquito", "css:finder"],
+        ["xpath=//a[contains(text(),'Con Altura')]", "xpath:link"],
+        ["xpath=//ul[@id='playlist']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://1baprintop.website/__mm/Top/Con%20Altura/Con%20Altura%20-%20Rosalia%20J%20Balvin.swf')]", "xpath:href"],
+        ["xpath=//div[2]/div/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Con Altura')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a5606ab5-4a87-48a0-b74c-61d96d23100e",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "9fd4da2d-2cd0-452c-bcfe-6de2ca87a478",
+    "name": "Usuario pausa una cancion",
+    "commands": [{
+      "id": "6f2b72ca-208f-4399-8569-6259a8852400",
+      "comment": "",
+      "command": "open",
+      "target": "/ListaReproduccion/DetalleListaReproduccion",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3dfa39fc-90c9-45c7-8a40-62c7376351a9",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "866x664",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f7928758-d617-47e2-b128-e45a612f8f17",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Otro Trago",
+      "targets": [
+        ["linkText=Otro Trago", "linkText"],
+        ["css=.playlist-number:nth-child(2) > .blanquito", "css:finder"],
+        ["xpath=//a[contains(text(),'Otro Trago')]", "xpath:link"],
+        ["xpath=//ul[@id='playlist']/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://1baprintop.website/__mm/Top/Sech/Sech%20-%20Otro%20Trago%20Remix.swf')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Otro Trago')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7d971377-b1e4-40ee-b8cd-26c55c6d2115",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "381ff1f9-fe80-4f25-b1f0-f8e6eb6f6b41",
+    "name": "auto reproducción de canciones cuando termina una",
+    "commands": [{
+      "id": "b3bf39c6-36cb-4f7c-8e45-1ce27ec54246",
+      "comment": "",
+      "command": "open",
+      "target": "/ListaReproduccion/DetalleListaReproduccion",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3b1e89ac-9765-453a-9ba1-f9a3c788b39f",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "866x664",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d6cec864-9461-4418-b920-26ab300363d2",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Con Altura",
+      "targets": [
+        ["linkText=Con Altura", "linkText"],
+        ["css=.playlist-number:nth-child(1) > .blanquito", "css:finder"],
+        ["xpath=//a[contains(text(),'Con Altura')]", "xpath:link"],
+        ["xpath=//ul[@id='playlist']/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://1baprintop.website/__mm/Top/Con%20Altura/Con%20Altura%20-%20Rosalia%20J%20Balvin.swf')]", "xpath:href"],
+        ["xpath=//div[2]/div/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Con Altura')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c69dadf7-b06e-43ab-b687-9568a9a18cb9",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "6ba4a913-4079-4404-8c4e-1e1bd7b80e8a",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["c20eae52-fa85-4c90-98b3-c1d0123fc138"]
+  }],
+  "urls": ["https://localhost:5001/"],
+  "plugins": []
+}

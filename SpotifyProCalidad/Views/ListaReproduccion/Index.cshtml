@@ -1,0 +1,25 @@
+﻿
+
+<table class="table">
+    <thead>
+    <tr>
+
+        <th>Listas de Reproduccion </th>
+
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.Nombre</td>
+            <td>
+                <a id="busk" href="/ListaReproduccion/DetalleListaReproduccion?IdLista=@item.Id">Detalle</a>
+            </td>
+
+
+        </tr>
+    }
+    </tbody>
+</table>
