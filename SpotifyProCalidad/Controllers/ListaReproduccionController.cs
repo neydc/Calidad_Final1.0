@@ -115,8 +115,12 @@ namespace SpotifyProCalidad.Controllers
             
             return RedirectToAction("Perfil", "PaginaPrincipal");
         }
-        public IActionResult AgregarCancionAListaReproduccion (int IdCancion, int IdLista)
+        public IActionResult AgregarCancionAListaReproduccion(int IdCancion, int IdLista)
         {
+            if (IdCancion!=0)
+            {
+                ViewBag.sound = IdCancion;
+            }
             _cancion.AgregarCancionAListaReproduccion(IdCancion,IdLista);
             
             return RedirectToAction("Perfil", "PaginaPrincipal");

@@ -3,13 +3,7 @@
     Layout = null;
 }
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
-<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
-<link href="~/Plantilla/css/style.css" rel="stylesheet">
-<link href="~/Plantilla/css/style-color.css" rel="stylesheet">
 
-<link href="~/Plantilla/css/style.css" rel="stylesheet">
-<link href="~/Plantilla/css/style-color.css" rel="stylesheet">
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 <style>
@@ -1360,14 +1354,14 @@
                     {
         <li class="playlist-number" style="border-style:double">
 
-            <a name="nombre" onclick="document.getElementById('elemento1').innerHTML='@item.Nombre - @DateTime.Now' " class="blanquito" style="color: black" href=@item.Musica><h4>@item.Nombre</h4></a> <a href="/ListaReproduccion/EliminarCancionAListaReproduccion?IdCancion=@item.Id&&IdLista=@ViewBag.IdlistasReproduccion"><i class="fas fa-trash"></i></a>
+            <a name="nombre" onclick="document.getElementById('elemento1').innerHTML='@item.Nombre - @DateTime.Now' " class="blanquito" style="color: black" href=@item.Musica><h4> <i style="color:forestgreen" class="fas fa-play"></i>@item.Nombre</h4></a> <a href="/ListaReproduccion/EliminarCancionAListaReproduccion?IdCancion=@item.Id&&IdLista=@ViewBag.IdlistasReproduccion"><i class="fas fa-trash"></i></a>
             <p>
                 <strong><i class="fas fa-compact-disc"></i> </strong> @(((List<Album>)@ViewBag.Albumnes).FirstOrDefault(o => o.Id == @item.IdAlbum)?.Nombre) &nbsp;|&nbsp; <strong><i class="fas fa-guitar"></i> </strong> @(((List<Genero>)@ViewBag.Generos).FirstOrDefault(o => o.Id == @item.IdGenero)?.Nombre)  &nbsp;|&nbsp; <strong><i class="fas fa-microphone-alt"></i> </strong> @foreach (var xItem in ViewBag.DetalleCancionArtista)
                 {
 
                     if (xItem.IdCancion == @item.Id)
                     {
-@ViewBag.Artista[xItem.IdArtista]}
+                        @ViewBag.Artista[xItem.IdArtista]}
 
 
 }
@@ -1386,3 +1380,59 @@
     </div>
 
 </div>
+
+<script>
+    audioPlayer();
+    function audioPlayer() {
+        var currentSong = 0;
+        $("#audioPlayer")[0].src = $("#playlist li a")[0];
+
+        $("#playlist li ").addClass("playlist-number");
+        $("#playlist li a").click(function (e) {
+            e.preventDefault();
+            $("#audioPlayer")[0].src = this;
+
+            $("#audioPlayer")[0].play();
+
+
+            currentSong = $(this).parent().index();
+            $(this).parent().addClass("playlist-number");
+        });
+        //   $("#playlist li").click(function(e){
+
+        // 	$($("#playlist li")).onload.addClass("mama");
+
+        //   });
+
+        $("#audioPlayer")[0].addEventListener("ended", function () {
+            currentSong++;
+            if (currentSong == $("#playlist li a").length)
+                currentSong = 0;
+
+
+            $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
+            $("#playlist li a").removeClass("abc");
+            $($("#playlist li a")[currentSong]).addClass("abc");
+            $("#audioPlayer")[0].play();
+        });
+
+        $('#playNowBtn').click(function (e) {
+            var $playNowButton = $(this);																/* button variable */
+            var $playlist = $playNowButton.parent().parent();						/* play list section class */
+            var $disk = $playlist.children().children('.disk');			/* disk image */
+
+            if ($disk.hasClass('rotating')) {
+                $disk.removeClass('rotating');
+                $playNowButton.children('i').removeClass('fa-pause').addClass('fa-play');
+                obj.pause();
+            } else {
+                $disk.addClass('rotating');
+                $playNowButton.children('i').removeClass('fa-play').addClass('fa-pause');
+                obj.play();
+            }
+            e.preventDefault();
+        });
+
+    }
+
+</script>

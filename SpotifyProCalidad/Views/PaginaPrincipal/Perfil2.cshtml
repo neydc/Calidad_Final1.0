@@ -45,17 +45,27 @@
                                                 </h3>
                                             </a>
                                             <div class="text-right">
-                                                <a style="font-size:10px" class="btn btn-success" data-toggle="modal" data-target="#exampleModalScrollable" href="/ListaReproduccion/AgregarCancionAListaReproduccion?IdCancion=@item.Id">
-                                                    <i class="fas fa-share-square"></i>
-                                                </a>
+                                                <form action="/ListaReproduccion/AgregarCancionAListaReproduccion?IdCancion=@item.Id " method="post">
+
+                                                    <select  name="IdLista">
+                                                        <option>--Add Playlist--</option>
+                                                        @foreach (var item1 in ViewBag.Mislistas)
+                                                        {
+
+                                                    <option value="@item1.Id">@item1.Nombre</option>}
+                                                    </select>
+                                                    <button class="btn btn-success">Guardar</button>
+                                                </form>
+
+                                               
                                                 @if (!((List<int>)ViewBag.DetalleNumeros).Contains(item.Id))
                                                 {
-                                <a href="/ListaReproduccion/AgregarCancionFavoritos?IdCancion=@item.Id">
-                                    <i style="color:forestgreen" class="far fa-star"></i>
-                                </a> <!-- Agregar a Favorita--> }
-                            else
-                            {
-            <i style="color:darkmagenta" class="fas fa-star"></i> <!-- Cancion Favorita-->}
+                                            <a href="/ListaReproduccion/AgregarCancionFavoritos?IdCancion=@item.Id">
+                                                <i style="color:forestgreen" class="far fa-star"></i>
+                                            </a> <!-- Agregar a Favorita--> }
+                                        else
+                                        {
+                                            <i style="color:darkmagenta" class="fas fa-star"></i> <!-- Cancion Favorita-->}
 
                                             </div>
                                         </div>
@@ -109,4 +119,60 @@
         });
         e.preventDefault();
     });
+</script>
+
+<script>
+    audioPlayer();
+    function audioPlayer() {
+        var currentSong = 0;
+        $("#audioPlayer")[0].src = $("#playlist li a")[0];
+
+        $("#playlist li ").addClass("playlist-number");
+        $("#playlist li a").click(function (e) {
+            e.preventDefault();
+            $("#audioPlayer")[0].src = this;
+
+            $("#audioPlayer")[0].play();
+
+
+            currentSong = $(this).parent().index();
+            $(this).parent().addClass("playlist-number");
+        });
+        //   $("#playlist li").click(function(e){
+
+        // 	$($("#playlist li")).onload.addClass("mama");
+
+        //   });
+
+        $("#audioPlayer")[0].addEventListener("ended", function () {
+            currentSong++;
+            if (currentSong == $("#playlist li a").length)
+                currentSong = 0;
+
+
+            $("#audioPlayer")[0].src = $("#playlist li a")[currentSong].href;
+            $("#playlist li a").removeClass("abc");
+            $($("#playlist li a")[currentSong]).addClass("abc");
+            $("#audioPlayer")[0].play();
+        });
+
+        $('#playNowBtn').click(function (e) {
+            var $playNowButton = $(this);																/* button variable */
+            var $playlist = $playNowButton.parent().parent();						/* play list section class */
+            var $disk = $playlist.children().children('.disk');			/* disk image */
+
+            if ($disk.hasClass('rotating')) {
+                $disk.removeClass('rotating');
+                $playNowButton.children('i').removeClass('fa-pause').addClass('fa-play');
+                obj.pause();
+            } else {
+                $disk.addClass('rotating');
+                $playNowButton.children('i').removeClass('fa-play').addClass('fa-pause');
+                obj.play();
+            }
+            e.preventDefault();
+        });
+
+    }
+
 </script>

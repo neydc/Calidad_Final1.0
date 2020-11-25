@@ -52,7 +52,7 @@ namespace SpotifyProCalidad.Controllers
             var cancionesBuesquedaQuery = _cancion.BusquedaCancion(busqueda);
 
             var DetalleListaReproduccion = _detalleListaReproduccionCancion.DetalleListaReproduccionCancionesIndices(detalleLista);
-
+            var MisListas = _listaReproduccion.MisListaRepoducciones(sesion);
             ViewBag.DetalleCancionArtista = _detalleCancionArtista.GetAllDetalleCancionArtista();
             ViewBag.Generos = _genero.GetAllGeneros();
         
@@ -60,6 +60,7 @@ namespace SpotifyProCalidad.Controllers
             ViewBag.Artista = _artista.DictionaryArtistas();
             ViewBag.DetalleNumeros = DetalleListaReproduccion;
             ViewBag.Busqueda = busqueda;
+            ViewBag.Mislistas = MisListas;
             return View(cancionesBuesquedaQuery);
         }
 

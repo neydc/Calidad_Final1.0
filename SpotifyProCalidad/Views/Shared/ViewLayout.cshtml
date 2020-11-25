@@ -1449,9 +1449,8 @@
                     {
         <div class="btn-group dropleft">
 
-            <a href="#" id="listareproduccion">
+            <a href="/ListaReproduccion/DetalleListaReproduccion?IdLista=@listasReproduccion.Id" class="zonalink" >
                 @listasReproduccion.Nombre
-                <input type="hidden" id="detalleId" value="@listasReproduccion.Id" />
 
             </a>
             <button type="button" style="color:white; align-content:center" class="btn" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -1560,12 +1559,18 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <form action="/ListaReproduccion/AgregarCancionAListaReproduccion" method="post">
+                    <form action="/ListaReproduccion/AgregarCancionAListaReproduccion?IdCancion=@ViewBag.sound " method="post">
+
                         <select name="IdLista">
                             @foreach (var item in ViewBag.Mislistas)
                             {
-                <option value="@item.Id">@item.Nombre</option>}
+                                <option value="@item.Id">@item.Nombre</option>
+                            }
                         </select>
+                        @if (ViewBag.sound!=0)
+                        {
+                            <input type="hidden" name="IdCancion" value="@ViewBag.sound" />
+                        }
                         <button class="btn btn-success">Guardar</button>
                     </form>
                 </div>
@@ -1770,7 +1775,7 @@
 </script>
 
 
-<script>
+@*<script>
     function reproducir(url) {
         const http = new XMLHttpRequest();
         http.open("GET", url);
@@ -1778,24 +1783,27 @@
 
 
     }
-</script>
+</script>*@
 
 <script>
-    $("#listareproduccion").click(function (e) {
-        $.get("/ListaReproduccion/DetalleListaReproduccion?IdLista=" + $("#detalleId").val(), function (respuesta) {
+    $(".zonalink").click(function (e) {
+        var href = $(this).attr('href');
+      
+        $.get(href, function (respuesta) {
             $("#canciones").html(respuesta);
         });
         e.preventDefault();
     });
 </script>
 
-<script>
-    $(document).ready(function () {
-        $("a").click(function (event) {
-            var href = $('a').attr('href');
-            alert(href);
-            event.preventDefault();
+@*<script>
+    $(".zonalink").click(function (e) {
+        var href = $(this).attr('href');
+        alert(href);
+        $.get(href), function (respuesta) {
+            $("#canciones").html(respuesta);
         });
+        e.preventDefault();
     });
-</script>
+</script>*@
 </html>
